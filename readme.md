@@ -43,7 +43,7 @@ Vidyasetu LMS is a comprehensive desktop application designed to automate and st
 
 3. Import the project into your preferred IDE (such as VS Code, IntelliJ IDEA, or Eclipse).
 
-4. Add the `MySQL Connector/J` JAR file to your project's build path/dependencies.
+4. Download the official [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) (Select "Platform Independent" from the dropdown to get the ZIP/TAR file containing the JAR). Extract it and add the `.jar` file to your project's build path/dependencies.
 
 5. Run `App.java` to launch the application.
 
